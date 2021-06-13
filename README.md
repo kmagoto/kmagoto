@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kennedy Magoto
 - 👀 I’m interested in developing a software as a project
-- 🌱 I’m currently learning how to be a full-stack software developer
-- 💞️ I’m looking to collaborate on projects that I will issue details later
+- 🌱 I’m currently practicing full-stack software development
+- 💞️ I’m looking to collaborate on any projects you wish me to help
 - 📫 How to reach me: Email: kennedymagoto@gmail.com  Twitter @kenn_dev
 
 <!---
