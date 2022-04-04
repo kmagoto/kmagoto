@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kenn_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kenn_dev?logo=twitter&style=for-the-badge" alt="kenn_dev" /></a> </p>
 
-- 🔭 QATestLab certified software tester**
+- 🔭 Certified software tester
 
 - 🔭 I’m currently working on **a Python ETL project**
 
